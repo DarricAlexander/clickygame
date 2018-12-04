@@ -1,0 +1,10 @@
+#imageArea {
+    display: block;
+    margin: auto;
+}
+
+.cardArea {
+    width: 90%;
+    display: block;
+    margin: auto;
+}

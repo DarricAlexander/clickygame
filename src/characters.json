@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/anthony.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/demar.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/demarcus.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/giannis.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/james.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/jimmy.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/kevin.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/klay.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/kyrie.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/lebron.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/paul.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/stephen.png",
+      "clicked": false
+    }
+  ]
+  
+  
+  
+  
